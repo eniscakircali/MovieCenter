@@ -6,4 +6,4 @@ Swipper api link;
 https://swiperjs.com/api/
 
 And there it is;
-<img src="https://media.giphy.com/media/XIgfQhfgxsTNo0CPfC/giphy.gif" width="1500" height="1000" />
+![](https://media.giphy.com/media/XIgfQhfgxsTNo0CPfC/giphy.gif)
