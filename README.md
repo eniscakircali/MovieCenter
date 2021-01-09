@@ -6,4 +6,6 @@ Swipper api link;
 https://swiperjs.com/api/
 
 And there it is;
+
+
 ![](https://github.com/MortuusestChe/MovieCenter/blob/main/Animated%20GIF-downsized_large.gif)
