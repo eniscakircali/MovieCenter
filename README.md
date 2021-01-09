@@ -8,4 +8,4 @@ https://swiperjs.com/api/
 And there it is;
 
 
-![](https://github.com/MortuusestChe/MovieCenter/blob/main/Animated%20GIF-downsized_large.gif width= 1000px heigth = 800px)
+![](https://github.com/MortuusestChe/MovieCenter/blob/main/Animated%20GIF-downsized_large.gif)
