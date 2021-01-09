@@ -6,4 +6,4 @@ Swipper api link;
 https://swiperjs.com/api/
 
 And there it is;
-![](https://media.giphy.com/media/XIgfQhfgxsTNo0CPfC/giphy.gif)
+![](https://media.giphy.com/media/XIgfQhfgxsTNo0CPfC/giphy-downsized-large.gif)
