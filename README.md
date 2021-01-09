@@ -6,4 +6,4 @@ Swipper api link;
 https://swiperjs.com/api/
 
 And there it is;
-![Alt Text](https://media.giphy.com/media/XIgfQhfgxsTNo0CPfC/giphy-downsized-large.gif)
+<img src="https://media.giphy.com/media/XIgfQhfgxsTNo0CPfC/giphy.gif" width="40" height="40" />
