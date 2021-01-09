@@ -8,4 +8,4 @@ https://swiperjs.com/api/
 And there it is;
 
 
-<img src="https://github.com/MortuusestChe/MovieCenter/blob/main/Animated%20GIF-downsized_large.gif" width="1300" height="500"/>
+<img src="https://github.com/MortuusestChe/MovieCenter/blob/main/Animated%20GIF-downsized_large.gif" width="1200" height="450"/>
