@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+}
+.global-header{
+    background-image: url(img/firstpage/fi1.jpg);
+    background-size: 1520px,800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+a:hover{
+    color: violet;
+}
+a:active{
+    color: teal;
+}
+.ul{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+.li{
+    position: relative;
+    padding-left: 3%;
+    margin-bottom: 35%;
+    padding-top: 6%;
+}
+#Moviecenter{
+    font-size: x-large;
+    margin-left: 10.7%;
+}
+#search{
+    margin-left: 40%;
+}
+.button{
+    position: relative;
+    width: 10%;
+    margin-top: 1.7%;
+    margin-left: 45%;
+    transition: all .2s ease-in-out;
+}
+.button:hover{
+    transform: scale(1.1);
+    color: violet;
+}
+  
